@@ -1,0 +1,13 @@
+.error-message {
+  text-align: center;
+  color: red;
+  font-weight: bold;
+  margin: 2rem 0;
+}
+.anime-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; /* ✅ Centers the cards horizontally */
+  gap: 1.5rem;
+  padding: 2rem;
+}
